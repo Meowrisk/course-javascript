@@ -22,3 +22,5 @@ export default {
     return { friend, url: photo.url };
   },
 };
+
+// console.log(model.getNextPhoto());
